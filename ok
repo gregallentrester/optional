@@ -1,0 +1,12 @@
+#!/bin/bash -p
+
+clear
+
+cd ./src/main/java/net/greg/examples/salient/
+
+java Pilot.java
+
+cd ~/Desktop/AppOptional/
+
+
+### bld;run
